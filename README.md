@@ -5,8 +5,8 @@
 ![](/results/predicted-image.png)
 ### Detect and classification on Video
 
-https://github.com/HODUCVU/Mask_R-CNN_with_COCO_dataset/assets/73897430/b6e3d8a2-be85-491c-9250-e1fc10cd7abe
-
+<!--https://github.com/HODUCVU/Mask_R-CNN_with_COCO_dataset/assets/73897430/b6e3d8a2-be85-491c-9250-e1fc10cd7abe-->
+![demo](https://github.com/HODUCVU/Mask_R-CNN_with_COCO_dataset/blob/main/results/output_video.mp4)
 
 ## Dataset 
 COCO Dataset [drive](https://drive.google.com/drive/folders/17pBgoIodgAu9UFRr3NSA_Zul81UOWA1I?usp=sharing)
