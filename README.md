@@ -10,8 +10,11 @@ https://github.com/HODUCVU/Mask_R-CNN_with_COCO_dataset/assets/73897430/c12975dd
 
 
 
-## Dataset 
-COCO Dataset [drive](https://drive.google.com/drive/folders/17pBgoIodgAu9UFRr3NSA_Zul81UOWA1I?usp=sharing)
+## COCO Dataset 
+| Category | Link |
+|----------|------|
+| COCO Dataset saved on Google Drive | https://drive.google.com/drive/folders/17pBgoIodgAu9UFRr3NSA_Zul81UOWA1I?usp=sharing |
+| Full dataset from kaggle | https://www.kaggle.com/code/karthikeyanvijayan/coco-object-detection-dataset-in-tfrecord/input | 
 
 ## Colab
 | File                 | Link                                           |
